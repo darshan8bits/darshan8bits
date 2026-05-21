@@ -1,4 +1,4 @@
-# B.Tech CSE @ NIT Silchar | Backend & Cloud Developer | DSA Enthusiast
+# Darshan Gupta | Backend & Cloud Developer
 
 I’m a Computer Science student at NIT Silchar who loves building scalable backend systems, solving algorithmic problems, and exploring cloud + AI engineering.
 
