@@ -37,7 +37,7 @@ Other     : Git · Linux · Bash · REST APIs · SFML
 
 ### 💻 Languages, Frameworks and Web Technologies
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C-%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
