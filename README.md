@@ -137,5 +137,5 @@ Other     : Git · Linux · Bash · REST APIs · SFML
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kgnio&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darshan8bits&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
 </p>
