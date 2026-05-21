@@ -4,11 +4,11 @@ I’m a Computer Science student at NIT Silchar who loves building scalable back
 
 Currently focused on:
 
-Backend Development
-Cloud Computing
-Data Structures & Algorithms
-AI/ML Engineering
-System Design Fundamentals
+➣ Backend Development </br>
+➣ Cloud Computing </br>
+➣ Data Structures & Algorithms </br>
+➣ AI/ML Engineering </br>
+➣ System Design Fundamentals </br>
 
 
 ## 🌐 Socials:
