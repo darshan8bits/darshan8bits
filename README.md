@@ -1,21 +1,141 @@
-# Darshan Gupta | Backend & Cloud Developer
+<!-- Header -->
+<h2 align="center">👋 Hi, I'm <strong>Darshan!</strong></h2>
+<h4 align="center"> • Backend Developer • Designing Clean and Scalable Architecture • Exploring AI/ML</h4>
 
-Hello! I’m a Computer Science student at NIT Silchar who loves building scalable backend systems, solving algorithmic problems, and exploring cloud + AI engineering.
+---
 
-Currently focused on:
+## ✨ About Me  
 
-➣ Backend Development </br>
-➣ Cloud Computing </br>
-➣ Data Structures & Algorithms </br>
-➣ AI/ML Engineering </br>
-➣ System Design Fundamentals </br>
+I am a 2nd year **Computer Science** student at NIT Silchar, who is
+
+- 💻 Passionate about **backend development, cloud & AI engineering**
+- ⚡ Interested in **scalable systems, realtime architectures & performance optimization**
+- 🌐 Building **full-stack and backend-focused** applications using modern technologies
+- ☁️ Exploring **DevOps, distributed systems, caching, WebSockets & cloud infrastructure**
+- 🚀 Always building, learning, and experimenting with new technologies
+
+---
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=darshan8bits&theme=cyber-city)
+
+---
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-gupta-80069930a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshangupta78421@gmail.com) 
+## ⚙️ Tech Stack
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+```
+Languages : C/C++ · Python · JavaScript · Assembly
+Frontend  : React · HTML5 · Tailwind CSS · shadcn/ui
+Backend   : Node.js · Express · PostgreSQL · Redis · WebSockets · MySQL
+DevOps    : Docker · GitHub Actions · AWS
+Other     : Git · Linux · Bash · REST APIs · SFML
+```
+
+---
+
+## 🛠️ Technologies I Use
+
+### 💻 Languages, Frameworks and Web Technologies
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-18181B?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+
+### 🔬 Engineering & Systems
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=gnuemacs&logoColor=ffffff)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=ffffff)
+
+---
+
+## 🔥 Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>🌐 RateSentinel</h3>
+        <p>
+          A Production-grade distributed API rate limiting middleware — with a real-time WebSockets dashboard,
+          implementing <b>Fixed Window</b>, <b>Sliding Window</b> and <b>Tocken Bucket</b> algorithms.  
+        </p>
+        <p>
+          <a href="https://www.github.com/darshan8bits/RateSentinel">
+            🔗 <strong>View</strong>
+          </a>
+        </p>
+      </td>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>🤖 BharatBiz Agent</h3>
+        <p>
+          <b>AI-powered Full-Stack Chatbot</b> assistant for Indian businesses to search products, place orders, and manage inventory using natural language in English and Hindi.
+        </p>
+        <p>
+          <a href="https://www.github.com/darshan8bits/Bharat-Biz-Agent">
+            🔗 <strong>View</strong>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>💥 Custom Physics Engine </h3>
+        <p>
+          A collaborative project leading to the development of an <b>interactive desktop-based Physics Simulator</b> that can render tens of different simulations, built using <b>C++, SFML, Electron, and React.</b> 
+        </p>
+        <p>
+          <a href="https://github.com/Subhajit281/PhysicsSimulator">
+            🔗 <strong>View</strong>
+          </a>
+        </p>
+      </td>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>📝 Notesify </h3>
+        <p>
+          A Full-stack Notes App supporting <b>CRUD operations with JWT Authentication,</b>
+          built using React, TailwindCSS, Node.js, Express, PostgreSQL.
+          <p>
+          <a href="https://github.com/darshan8bits/Notesify">
+            🔗 <strong>View</strong>
+          </a>
+        </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/darshan8bits/darshan8bits/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kgnio&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
+</p>
