@@ -16,7 +16,8 @@ I am a 2nd year **Computer Science** student at NIT Silchar, who is
 
 ---
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=darshan8bits&theme=cyber-city)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=darshan8bits&theme=tokyonight)](https://git.io/streak-stats) 
+
 
 ---
 
