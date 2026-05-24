@@ -16,7 +16,11 @@ I am a 2nd year **Computer Science** student at NIT Silchar, who is
 
 ---
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=darshan8bits&theme=tokyonight)](https://git.io/streak-stats) 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=darshan8bits&theme=tokyonight" />
+  </a>
+</div>
 
 
 ---
