@@ -6,7 +6,7 @@
 
 ## ✨ About Me  
 
-I am a 2nd year **Computer Science** student at NIT Silchar, who is
+I am a 3rd year **Computer Science** student at NIT Silchar, who is
 
 - 💻 Passionate about **backend development, cloud & AI engineering**
 - ⚡ Interested in **scalable systems, realtime architectures & performance optimization**
